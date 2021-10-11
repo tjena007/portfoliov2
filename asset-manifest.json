@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfoliov2/static/css/main.e00e806b.chunk.css",
-    "main.js": "/portfoliov2/static/js/main.d71fccbb.chunk.js",
-    "main.js.map": "/portfoliov2/static/js/main.d71fccbb.chunk.js.map",
+    "main.js": "/portfoliov2/static/js/main.017cd29e.chunk.js",
+    "main.js.map": "/portfoliov2/static/js/main.017cd29e.chunk.js.map",
     "runtime-main.js": "/portfoliov2/static/js/runtime-main.4d2dd693.js",
     "runtime-main.js.map": "/portfoliov2/static/js/runtime-main.4d2dd693.js.map",
-    "static/js/2.d33868de.chunk.js": "/portfoliov2/static/js/2.d33868de.chunk.js",
-    "static/js/2.d33868de.chunk.js.map": "/portfoliov2/static/js/2.d33868de.chunk.js.map",
+    "static/js/2.38d9a1a7.chunk.js": "/portfoliov2/static/js/2.38d9a1a7.chunk.js",
+    "static/js/2.38d9a1a7.chunk.js.map": "/portfoliov2/static/js/2.38d9a1a7.chunk.js.map",
     "index.html": "/portfoliov2/index.html",
-    "precache-manifest.18c7a2aec471e5e8721beda9487efb95.js": "/portfoliov2/precache-manifest.18c7a2aec471e5e8721beda9487efb95.js",
+    "precache-manifest.e7407317bc8c68c840a8b6507422c063.js": "/portfoliov2/precache-manifest.e7407317bc8c68c840a8b6507422c063.js",
     "service-worker.js": "/portfoliov2/service-worker.js",
     "static/css/main.e00e806b.chunk.css.map": "/portfoliov2/static/css/main.e00e806b.chunk.css.map",
-    "static/js/2.d33868de.chunk.js.LICENSE.txt": "/portfoliov2/static/js/2.d33868de.chunk.js.LICENSE.txt",
+    "static/js/2.38d9a1a7.chunk.js.LICENSE.txt": "/portfoliov2/static/js/2.38d9a1a7.chunk.js.LICENSE.txt",
     "static/media/index.css": "/portfoliov2/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/buld.jpg": "/portfoliov2/static/media/buld.a1051a22.jpg",
     "static/media/cwoc.png": "/portfoliov2/static/media/cwoc.404ae7bc.png",
@@ -37,13 +37,14 @@
     "static/media/skillenza.png": "/portfoliov2/static/media/skillenza.7b7a76ef.png",
     "static/media/ssec.png": "/portfoliov2/static/media/ssec.8901092d.png",
     "static/media/ssgandhy.png": "/portfoliov2/static/media/ssgandhy.894ef0fc.png",
+    "static/media/tanmay.JPG": "/portfoliov2/static/media/tanmay.ebc71749.JPG",
     "static/media/valora.jpg": "/portfoliov2/static/media/valora.246ad3ed.jpg",
     "static/media/wrighter.jpg": "/portfoliov2/static/media/wrighter.02fdae43.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4d2dd693.js",
-    "static/js/2.d33868de.chunk.js",
+    "static/js/2.38d9a1a7.chunk.js",
     "static/css/main.e00e806b.chunk.css",
-    "static/js/main.d71fccbb.chunk.js"
+    "static/js/main.017cd29e.chunk.js"
   ]
 }
