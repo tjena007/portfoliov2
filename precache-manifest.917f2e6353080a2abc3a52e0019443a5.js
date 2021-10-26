@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1433bcdfc6748f4e39f22a899542799c",
+    "revision": "c96702ba56068e58d36d198b7555469a",
     "url": "/portfoliov2/index.html"
   },
   {
-    "revision": "ee46dfa5b5691766cb05",
+    "revision": "4899e55d551a43289e67",
     "url": "/portfoliov2/static/css/main.e00e806b.chunk.css"
   },
   {
-    "revision": "b60947759cc76e48b574",
-    "url": "/portfoliov2/static/js/2.38d9a1a7.chunk.js"
+    "revision": "3b8a5e6501f7f7eb54e2",
+    "url": "/portfoliov2/static/js/2.0d24cb7a.chunk.js"
   },
   {
     "revision": "32eaebd0b06f4bb60d5e9e5d0e7cd13e",
-    "url": "/portfoliov2/static/js/2.38d9a1a7.chunk.js.LICENSE.txt"
+    "url": "/portfoliov2/static/js/2.0d24cb7a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ee46dfa5b5691766cb05",
-    "url": "/portfoliov2/static/js/main.017cd29e.chunk.js"
+    "revision": "4899e55d551a43289e67",
+    "url": "/portfoliov2/static/js/main.7315050d.chunk.js"
   },
   {
     "revision": "036ec32d952d07594880",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/portfoliov2/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "baa352d6e1c2c79a97e7284fc2f65ab4",
+    "url": "/portfoliov2/static/media/asu.baa352d6.png"
   },
   {
     "revision": "a1051a228140c97862ba9a7f321c92b6",
@@ -126,6 +130,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c2801fb415f03c7b170934769d7b5397",
     "url": "/portfoliov2/static/media/fa-solid-900.c2801fb4.svg"
+  },
+  {
+    "revision": "48a892e5d76bf282c5bfc825797af9e6",
+    "url": "/portfoliov2/static/media/fcc.48a892e5.png"
   },
   {
     "revision": "54f6721948491acb1997fd43496cd7df",
@@ -212,8 +220,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfoliov2/static/media/tanmay.ebc71749.JPG"
   },
   {
+    "revision": "a9d8fd59cd6c4978838f8754de0b6ea7",
+    "url": "/portfoliov2/static/media/udemy.a9d8fd59.png"
+  },
+  {
     "revision": "246ad3ede6a55b0102afa9871cfcbf21",
     "url": "/portfoliov2/static/media/valora.246ad3ed.jpg"
+  },
+  {
+    "revision": "57df047578fc4aa0d82658a4b58bb2eb",
+    "url": "/portfoliov2/static/media/vit.57df0475.png"
+  },
+  {
+    "revision": "9506d5e11c0bcc8f73fb5cd539541089",
+    "url": "/portfoliov2/static/media/vit.9506d5e1.jpg"
   },
   {
     "revision": "02fdae4350ca45cabdc9c40cc11efc2a",
