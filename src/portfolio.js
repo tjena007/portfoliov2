@@ -26,9 +26,7 @@ const socialMediaLinks = {
   github: "https://github.com/tjena007",
   linkedin: "https://www.linkedin.com/in/tanmayjena/",
   gmail: "tjena2@gmail.com",
-  // gitlab: "https://gitlab.com/harikanani",
   facebook: "https://www.facebook.com/tanmay.jena.7/",
-  // twitter: "https://twitter.com/Harikrushn9",
   instagram: "https://www.instagram.com/life.through.glass.eye/",
 };
 
