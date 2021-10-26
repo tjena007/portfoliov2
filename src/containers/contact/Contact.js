@@ -12,7 +12,7 @@ export default function Contact() {
           <p className="subTitle contact-subtitle">{contactInfo.subtitle}</p>
 
           <div className="contact-text-div">
-            <a className="contact-detail" href={"tel:" + contactInfo.number}>
+            <a className="contact-detail" href={"tel:" + contactInfo.number} target='_blank' rel="noopener noreferrer">
               {contactInfo.number}
             </a>
             <br />
